@@ -1,0 +1,15 @@
+roadmap
+
+Cria ambiente para desenvolver
+
+MYSQL
+GIT
+git remote set-url origin git+ssh://git@github.com:jedsonSantos4/Venus.git
+git config  user.name "jedsonSantos4" --replace-all
+git config  user.email "jedson.chapa@gmail.com" --replace-all
+
+git remote add origin https://github.com/jedsonSantos4/Venus.git 
+
+ssh-keygen -t ed25519 -C "jedson.chapa@gmail.com"
+
+.NET 8
