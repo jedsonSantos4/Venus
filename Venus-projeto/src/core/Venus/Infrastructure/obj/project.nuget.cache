@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "B1iGeSM7N3Zl2DE+nuV7J/k2v9qIyVTO3j2mOgJyBvGuqFoU5hOcU48/Y7Xnl9lUP2MV/o/+rParmUo/CJ4RmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADM\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\mysqlconnector\\2.3.6\\mysqlconnector.2.3.6.nupkg.sha512"
+  ],
+  "logs": []
+}

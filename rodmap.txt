@@ -13,3 +13,32 @@ git remote add origin https://github.com/jedsonSantos4/Venus.git
 ssh-keygen -t ed25519 -C "jedson.chapa@gmail.com"
 
 .NET 8
+Com Dapper
+
+Criar prototipo 
+
+Tela Login
+ - Apos logado todas as ações vão carrega um log do usuario
+Tela Cadastro 
+ view root 
+	- conseder validar acesso
+	- consultar usuarios existeste 
+	- editar usuarios
+	- solitação de acessos pendentes
+ view user
+	- consulta seus dados
+	- acesso ao sistema apos cadastro validado
+Tela Cadastro 	
+ view root 
+	- drop de qual cliente deseja ver os produtos
+ view user
+	- consulta seus produtos
+	- registro na tela da ultima atualização na planilha
+	- Consultar por perioddos (precisamos definir o perdio maximo para consulta de dados)
+	- Conuslta por Item previamente checado
+	
+	
+	
+	
+APRESENTAÇÂO
+https://onedrive.live.com/edit?id=5C60123F4510A61B!1709&resid=5C60123F4510A61B!1709&ithint=file%2cpptx&authkey=!ABYDlWL41cXyd0I&wdo=2&cid=5c60123f4510a61b	

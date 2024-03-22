@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB24B7C5-7EAD-4C18-838C-E403E3381897}|Infrastructure\\Infrastructure.csproj|c:\\users\\adm\\documents\\venus\\venus-projeto\\src\\core\\venus\\infrastructure\\repository\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB24B7C5-7EAD-4C18-838C-E403E3381897}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A6C5BC-0087-4137-B825-C1AB08124FD9}|Presentation\\Presentation.csproj|c:\\users\\adm\\documents\\venus\\venus-projeto\\src\\core\\venus\\presentation\\controller\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A6C5BC-0087-4137-B825-C1AB08124FD9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controller\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB24B7C5-7EAD-4C18-838C-E403E3381897}|Infrastructure\\Infrastructure.csproj|c:\\users\\adm\\documents\\venus\\venus-projeto\\src\\core\\venus\\infrastructure\\interface\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB24B7C5-7EAD-4C18-838C-E403E3381897}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\interface\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB24B7C5-7EAD-4C18-838C-E403E3381897}|Infrastructure\\Infrastructure.csproj|c:\\users\\adm\\documents\\venus\\venus-projeto\\src\\core\\venus\\infrastructure\\entity\\produtoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB24B7C5-7EAD-4C18-838C-E403E3381897}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\entity\\produtoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB24B7C5-7EAD-4C18-838C-E403E3381897}|Infrastructure\\Infrastructure.csproj|c:\\users\\adm\\documents\\venus\\venus-projeto\\src\\core\\venus\\infrastructure\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB24B7C5-7EAD-4C18-838C-E403E3381897}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB24B7C5-7EAD-4C18-838C-E403E3381897}|Infrastructure\\Infrastructure.csproj|c:\\users\\adm\\documents\\venus\\venus-projeto\\src\\core\\venus\\infrastructure\\interface\\iprodutoinfra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB24B7C5-7EAD-4C18-838C-E403E3381897}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\interface\\iprodutoinfra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A6C5BC-0087-4137-B825-C1AB08124FD9}|Presentation\\Presentation.csproj|c:\\users\\adm\\documents\\venus\\venus-projeto\\src\\core\\venus\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A6C5BC-0087-4137-B825-C1AB08124FD9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A6C5BC-0087-4137-B825-C1AB08124FD9}|Presentation\\Presentation.csproj|c:\\users\\adm\\documents\\venus\\venus-projeto\\src\\core\\venus\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71A6C5BC-0087-4137-B825-C1AB08124FD9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A6C5BC-0087-4137-B825-C1AB08124FD9}|Presentation\\Presentation.csproj|c:\\users\\adm\\documents\\venus\\venus-projeto\\src\\core\\venus\\presentation\\controller\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A6C5BC-0087-4137-B825-C1AB08124FD9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controller\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A6C5BC-0087-4137-B825-C1AB08124FD9}|Presentation\\Presentation.csproj|c:\\users\\adm\\documents\\venus\\venus-projeto\\src\\core\\venus\\presentation\\controller\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A6C5BC-0087-4137-B825-C1AB08124FD9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controller\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A6C5BC-0087-4137-B825-C1AB08124FD9}|Presentation\\Presentation.csproj|c:\\users\\adm\\documents\\venus\\venus-projeto\\src\\core\\venus\\presentation\\controller\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A6C5BC-0087-4137-B825-C1AB08124FD9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controller\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880FCCC3-CE43-426D-8BAE-EEA916CA9A58}|Domain\\Domain.csproj|c:\\users\\adm\\documents\\venus\\venus-projeto\\src\\core\\venus\\domain\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880FCCC3-CE43-426D-8BAE-EEA916CA9A58}|Domain\\Domain.csproj|solutionrelative:domain\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880FCCC3-CE43-426D-8BAE-EEA916CA9A58}|Domain\\Domain.csproj|c:\\users\\adm\\documents\\venus\\venus-projeto\\src\\core\\venus\\domain\\model\\usuariobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880FCCC3-CE43-426D-8BAE-EEA916CA9A58}|Domain\\Domain.csproj|solutionrelative:domain\\model\\usuariobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB24B7C5-7EAD-4C18-838C-E403E3381897}|Infrastructure\\Infrastructure.csproj|c:\\users\\adm\\documents\\venus\\venus-projeto\\src\\core\\venus\\infrastructure\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB24B7C5-7EAD-4C18-838C-E403E3381897}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880FCCC3-CE43-426D-8BAE-EEA916CA9A58}|Domain\\Domain.csproj|c:\\users\\adm\\documents\\venus\\venus-projeto\\src\\core\\venus\\domain\\enum\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880FCCC3-CE43-426D-8BAE-EEA916CA9A58}|Domain\\Domain.csproj|solutionrelative:domain\\enum\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D16AE6E-6A3B-4E99-9D65-8C2CAA55EE20}|Application\\Application.csproj|c:\\users\\adm\\documents\\venus\\venus-projeto\\src\\core\\venus\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D16AE6E-6A3B-4E99-9D65-8C2CAA55EE20}|Application\\Application.csproj|solutionrelative:application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Infrastructure\\Interface\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Interface\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Infrastructure\\Interface\\IBaseRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Interface\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T04:13:39.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Infrastructure\\Repository\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Infrastructure\\Repository\\ProdutoRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\ProdutoRepository.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAwwFMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:46:02.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T01:56:40.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutoEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Infrastructure\\Entity\\ProdutoEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Entity\\ProdutoEntity.cs",
+              "ToolTip": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Infrastructure\\Entity\\ProdutoEntity.cs",
+              "RelativeToolTip": "Infrastructure\\Entity\\ProdutoEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T02:39:55.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProdutoInfra.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Infrastructure\\Interface\\IProdutoInfra.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Interface\\IProdutoInfra.cs",
+              "ToolTip": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Infrastructure\\Interface\\IProdutoInfra.cs",
+              "RelativeToolTip": "Infrastructure\\Interface\\IProdutoInfra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T02:47:46.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Presentation\\Controller\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controller\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Presentation\\Controller\\FuncionarioController.cs",
+              "RelativeToolTip": "Presentation\\Controller\\FuncionarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T01:59:24.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Infrastructure\\Entity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Entity\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Infrastructure\\Entity\\BaseEntity.cs",
+              "RelativeToolTip": "Infrastructure\\Entity\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T02:39:49.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Presentation\\Controller\\Login.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controller\\Login.cs",
+              "ToolTip": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Presentation\\Controller\\Login.cs",
+              "RelativeToolTip": "Presentation\\Controller\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T02:00:21.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Presentation\\Controller\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controller\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Presentation\\Controller\\ProdutoController.cs",
+              "RelativeToolTip": "Presentation\\Controller\\ProdutoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T01:59:41.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Presentation\\appsettings.json",
+              "RelativeToolTip": "Presentation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T03:22:45.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmpresaController.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Presentation\\Controller\\EmpresaController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controller\\EmpresaController.cs",
+              "ToolTip": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Presentation\\Controller\\EmpresaController.cs",
+              "RelativeToolTip": "Presentation\\Controller\\EmpresaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T01:58:39.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Domain\\Model\\Produto.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Produto.cs",
+              "ToolTip": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Domain\\Model\\Produto.cs",
+              "RelativeToolTip": "Domain\\Model\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T02:52:01.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Infrastructure\\Entity\\UserEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Entity\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Infrastructure\\Entity\\UserEntity.cs",
+              "RelativeToolTip": "Infrastructure\\Entity\\UserEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T02:39:58.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Domain\\Enum\\Role.cs",
+              "RelativeDocumentMoniker": "Domain\\Enum\\Role.cs",
+              "ToolTip": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Domain\\Enum\\Role.cs",
+              "RelativeToolTip": "Domain\\Enum\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T02:31:15.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioBase.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Domain\\Model\\UsuarioBase.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\UsuarioBase.cs",
+              "ToolTip": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Domain\\Model\\UsuarioBase.cs",
+              "RelativeToolTip": "Domain\\Model\\UsuarioBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T02:21:03.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\ADM\\Documents\\Venus\\Venus-projeto\\src\\core\\Venus\\Application\\Class1.cs",
+              "RelativeToolTip": "Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T01:54:00.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
