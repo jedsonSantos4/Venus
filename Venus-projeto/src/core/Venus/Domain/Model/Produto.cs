@@ -1,9 +1,7 @@
 ﻿namespace Domain.Model
 {
-    public class Produto
-    {
-        public int Id { get; set; }
-        public string Nome { get; set; }
+    public class Produto : Base
+    {        
         public string Descricao { get; set; }
         public DateTime DataEntrada { get; set; }
         public DateTime DataSaida { get; set; }

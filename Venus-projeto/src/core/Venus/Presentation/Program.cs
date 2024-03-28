@@ -1,13 +1,20 @@
+using Application.ProdutoHandlers;
 using Infrastructure;
 using Microsoft.OpenApi.Models;
+using System.Reflection;
 using System.Runtime.InteropServices;
 
 var builder = WebApplication.CreateBuilder(args);
 
-#region Conexao
-builder.Services.AddTransient<DbSession>(_ =>
-    new DbSession(builder.Configuration.GetConnectionString("MySqlConnection")));
+
+#region Infra
+builder.Services.AddInfra(builder.Configuration);
+
 #endregion
+builder.Services.AddMediatR(cf => cf.RegisterServicesFromAssembly(typeof(GetProdutoHadler).Assembly));
+
+
+
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();

@@ -1,0 +1,48 @@
+using Infrastructure;
+using Microsoft.AspNetCore.Http;
+using Microsoft.OpenApi.Models;
+using System.Runtime.InteropServices;
+
+var builder = WebApplication.CreateBuilder(args);
+
+#region Conexao
+builder.Services.AddTransient<DbSession>(_ =>
+    new DbSession(builder.Configuration.GetConnectionString("MySqlConnection")));
+#endregion
+
+builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
+var infoSdk = RuntimeInformation.FrameworkDescription;
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1",
+        new OpenApiInfo
+        {
+            Title = $"APITemperaturas {infoSdk}",
+            Description = $"API de conversão de temperaturas implementada com .NET 8 ({infoSdk})",
+            Version = "v1",
+            Contact = new OpenApiContact()
+            {
+                Name = "Renato Groffe",
+                Url = new Uri("https://github.com/renatogroffe"),
+            },
+            License = new OpenApiLicense()
+            {
+                Name = "MIT",
+                Url = new Uri("http://opensource.org/licenses/MIT"),
+            }
+        });
+});
+
+var app = builder.Build();
+
+app.UseSwagger();
+app.UseSwaggerUI();
+
+app.UseHttpsRedirection();
+
+app.UseAuthorization();
+
+app.MapControllers();
+
+app.Run();
